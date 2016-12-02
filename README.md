@@ -19,4 +19,13 @@ Sprint exercise for presentation
         - Physician retention >
         
 ** Transition to Interface portion **
+# Slide 4
+< Selling pitch >
+< Design approach:
+      -selling point
+      >
+           
+# Slide 5
+ < Brief Description 
+           - The 'Why?' & 'How?'>          
 
